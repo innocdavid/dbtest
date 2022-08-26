@@ -1,91 +1,22 @@
 {
 
-{
-    id: "1", 
-    name: "IPhone 12 Pro...",
-    imageUrl: [
-      "https://res.cloudinary.com/dknnf52ij/image/upload/v1661419593/agalm/phone12_epdwht.jpg",
-      "https://res.cloudinary.com/dknnf52ij/image/upload/v1661419593/agalm/phone12_epdwht.jpg",
-      "https://res.cloudinary.com/dknnf52ij/image/upload/v1661419593/agalm/phone12_epdwht.jpg",
-    ],
-    brand: "Apple",
-    price: "1.3ETH/$2000.00",
-    original: "1.6ETH/$1800.00",
-    Category: "Mobile Device",
-    describe: "The iPhone 12 is a premium handset",
-    countInStock: 10,
-    rating: 4.5,
-    numReviews: 1
-  },
+    {
+        id: "1", 
+        name: "IPhone 12 Pro...",
+        imageUrl: [
+          "https://res.cloudinary.com/dknnf52ij/image/upload/v1661419593/agalm/phone12_epdwht.jpg",
+          "https://res.cloudinary.com/dknnf52ij/image/upload/v1661419593/agalm/phone12_epdwht.jpg",
+          "https://res.cloudinary.com/dknnf52ij/image/upload/v1661419593/agalm/phone12_epdwht.jpg",
+        ],
+        brand: "Apple",
+        price: "1.3ETH/$2000.00",
+        original: "1.6ETH/$1800.00",
+        Category: "Mobile Device",
+        describe: "The iPhone 12 is a premium handset",
+        countInStock: 10,
+        rating: 4.5,
+        numReviews: 1
+      },
 
-  {
-    id: "2", 
-    name: "Land(Plot) 25/25 sqm",
-    imageUrl: [
-      "https://res.cloudinary.com/dknnf52ij/image/upload/v1661419593/agalm/land_q7mddz.jpg",
-      "https://res.cloudinary.com/dknnf52ij/image/upload/v1661419593/agalm/land_q7mddz.jpg",
-      "https://res.cloudinary.com/dknnf52ij/image/upload/v1661419593/agalm/land_q7mddz.jpg",
-    ],
-    brand: "Land",
-    price: "10.8ETH/$30,000.00",
-    original: "9.9ETH/$29,000.00",
-    Category: "Land",
-    describe: "The iPhone 12 is a premium handset",
-    countInStock: 1,
-    rating: 4.5,
-    numReviews: 10
-  },
-
-  {
-    id: "3", 
-    name: "Toyota 86..",
-    imageUrl: [
-      "https://res.cloudinary.com/dknnf52ij/image/upload/v1661419593/agalm/toyoto86_nwfxnt.jpg",
-      "https://res.cloudinary.com/dknnf52ij/image/upload/v1661419593/agalm/toyoto86_nwfxnt.jpg",
-      "https://res.cloudinary.com/dknnf52ij/image/upload/v1661419593/agalm/toyoto86_nwfxnt.jpg",
-    ],
-    brand: "Toyota",
-    price: "10.8ETH/$30,000.00",
-    original: "9.8ETH/$27,000.00",
-    Category: "Car",
-    describe: "The iPhone 12 is a premium handset",
-    countInStock: 1,
-    rating: 4.5,
-    numReviews: 8
-  },
-
-  {
-    id: "4", 
-    name: "MacBook Pro M2 Chip..",
-    imageUrl: [
-      "https://res.cloudinary.com/dknnf52ij/image/upload/v1661419593/agalm/macbook_lae8dg.jpg",
-      "https://res.cloudinary.com/dknnf52ij/image/upload/v1661419593/agalm/macbook_lae8dg.jpg",
-      "https://res.cloudinary.com/dknnf52ij/image/upload/v1661419593/agalm/macbook_lae8dg.jpg",
-    ],
-    brand: "Apple",
-    price: "5.8ETH/$6,000.00",
-    original: "5.8ETH/$5,909.00",
-    describe: "The iPhone 12 is a premium handset",
-    countInStock: 20,
-    rating: 4.5,
-    numReviews: 29
-  },
-
-  {
-    id: "5", 
-    name: "Bicycle Mountain..",
-    imageUrl: [
-      "https://res.cloudinary.com/dknnf52ij/image/upload/v1661419593/agalm/bicycle_sygpgm.jpg",
-      "https://res.cloudinary.com/dknnf52ij/image/upload/v1661419593/agalm/bicycle_sygpgm.jpg",
-      "https://res.cloudinary.com/dknnf52ij/image/upload/v1661419593/agalm/bicycle_sygpgm.jpg",
-    ],
-    brand: "Bikers",
-    price: "0.8ETH/$800.00",
-    original: "0.79ETH/$750.00",
-    Category: "Bikes",
-    describe: "The iPhone 12 is a premium handset",
-    countInStock: 10,
-    rating: 4.5,
-    numReviews: 1
-  },
+      
 }
